@@ -51,7 +51,7 @@ ItemDisplay[rvl]: %PURPLE%Full
 //
 // Hidden: All except flawless skull and all Perfects
 // =============================================================
-ItemDisplay[skl OR skz]: %NL% %BORDER(94,2)%%TAN%%NAME% %NL%%SPACE%%NOTIFYSOUND(Sound3)%%NOTIFY(TAN)%%MAPICON(59)%
+ItemDisplay[skl OR skz]: %TAN%%NAME% %MAPICON(59)%
 ItemDisplay[GEMTIER=1 OR GEMTIER=2 OR GEMTIER=3 OR GEMTIER=4]:
 
 // =============================================================
