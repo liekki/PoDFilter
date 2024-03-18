@@ -141,6 +141,8 @@ ItemDisplay[UNI (6cs OR 7cr) !ETH !ID]: %!Unique!% <<Unique>>
 // SET
 // nats wep
 ItemDisplay[SET 7qr !ETH !ID]: %!Set!% <<Set>>
+// sigon
+ItemDisplay[SET (ghm OR hgl OR hbt OR hbl OR gth OR tow) !ETH !ID]: %!Set!% <<Set>>
 
 // RUNEWORD BASES
 // 4os GMB+3 skill
