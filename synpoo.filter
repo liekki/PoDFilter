@@ -137,6 +137,8 @@ ItemDisplay[UNI (7gd) !ETH !ID]: %!Unique!% <<Unique>>
 ItemDisplay[UNI 7s8 ETH !ID]: %!Unique!% <<Unique>>
 // ondals, azurewrath/lightsabre
 ItemDisplay[UNI (6cs OR 7cr) !ETH !ID]: %!Unique!% <<Unique>>
+// bonesnap
+ItemDisplay[UNI mau !ETH !ID]: Bonesnap <<Unique>>
 
 // SET
 // nats wep
