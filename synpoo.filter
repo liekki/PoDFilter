@@ -197,7 +197,7 @@ ItemDisplay[SET (ghm OR hgl OR hbt OR hbl OR gth OR tow) !ETH !ID]: %!Set!% <<Se
 
 // RUNEWORD BASES
 // 3os+ superior 15ed mage, dusk, archon
-ItemDisplay[SUP (xtp OR uui OR utp) SOCK>2 ED=15 !ETH !RW]: %NL%  %DARK_GREEN%%NAME% +15%ed %RED%%SOCKETS%os  %NL%%SPACE% <<RunewordBase>>
+ItemDisplay[SUP (xtp OR uui OR utp) SOCK>2 ED=>12 !ETH !RW]: %NL%  %DARK_GREEN%%NAME% %ed %RED%%SOCKETS%os  %NL%%SPACE% <<RunewordBase>>
 // 3os+ 15ed eth elite armors (treachery, stone, duress)
 ItemDisplay[SUP ELT EQ2 SOCK>2 ED=15 ETH !RW]: %NL%  %DARK_GREEN%%NAME% +15%ed %RED%%SOCKETS%os ETH  %NL%%SPACE% <<RunewordBase>>
 // 0 socket or 4os 44-45res eth sacred targe, vortex shield
@@ -207,6 +207,8 @@ ItemDisplay[NMAG (pab OR paf) (SOCK=0 OR SOCK=4) RES=45 ETH !RW]: %NL%  %DARK_GR
 ItemDisplay[SUP (pab OR paf) (SOCK=0 OR SOCK=4) ED=15 ETH !RW]: %NL%  %DARK_GREEN%%NAME% +15%ed %RED%%SOCKETS%os ETH  %NL%%SPACE% <<RunewordBase>>
 // 0 socket or 4os -10req monarch
 ItemDisplay[SUP uit (SOCK=0 OR SOCK=4) STAT91=-10 !ETH !RW]: %NL%  %DARK_GREEN%%NAME% -10%req %RED%%SOCKETS%os  %NL%%SPACE% <<RunewordBase>>
+// 5os eth giant thresher
+ItemDisplay[SUP 7wc SOCK=5 ETH !RW]: %NL%  %DARK_GREEN%%NAME% DOOM BASE %NL%%SPACE% <<RunewordBase>>
 
 // RARES >ilvl79
 // gloves, boots, circs
